@@ -12,14 +12,14 @@ We hope to provide you with the best service. 🪄</b>"""
 
     ABOUT_TXT = """<b> <b>👋 Hey {}, <i>{}</i></b> 
     
-👨‍💻 Developer : <a href='https://t.me/Kushi_Yarige_bedda'>MR.X</a>  
+👨‍💻 Developer : <a href='https://t.me/owner_of_sk'>SK. BRO</a>  
 📚 Library : <a href='https://docs.pyrogram.org/'>Pyrogram</a>  
 🦾 Language : Python 3  
 🗃 Database : <a href='https://www.mongodb.com/'>MongoDB</a>  
 📡 Hosted on : <a href='https://heroku.com'>Heroku</a>  
 🚀 Version : v11.1.1 [Beta]
 
-<b>❓ Need help?</b> <a href='https://t.me/Kushi_Yarige_bedda'>Contact Support</a> </b>"""
+<b>❓ Need help?</b> <a href='https://t.me/owner_of_sk'>Contact Support</a> </b>"""
 
     DONATION_TXT = """<b>👋 Hello {}, <i>{}</i>
 
@@ -29,8 +29,8 @@ As you know, our service is completely free. However, maintaining it comes with 
 
 Every bit helps — whether it’s ₹5, ₹10, ₹20, ₹30, or ₹50 — it all goes toward keeping the service alive. You can donate via UPI. 🙏🏻❤️
 
-📲 GPay (UPI) : <code>mrx1h@axl</code>  
-📸 Send Screenshot : @Kushi_Yarige_bedda
+📲 GPay (UPI) : <code>sudeep9743232@axl</code>  
+📸 Send Screenshot : @owner_of_sk
 
 Please share and support us! 🙏🏻❤️</b>"""
   
@@ -42,7 +42,7 @@ Please share and support us! 🙏🏻❤️</b>"""
 
 » ɪ ᴡɪʟʟ ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ꜰᴏʀ ʏᴏᴜ
 
-» ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ - 👨‍💻 <a href='https://t.me/Kushi_Yarige_bedda'>MR.X</a> </b>"""
+» ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ - 👨‍💻 <a href='https://t.me/owner_of_sk'>SK. BRO</a> </b>"""
     
     RESTART_TXT = """<b>🔄 Bot Restarted!</b>
 
