@@ -12,7 +12,7 @@ We hope to provide you with the best service. 🪄</b>"""
 
     ABOUT_TXT = """<b> <b>👋 Hey {}, <i>{}</i></b> 
     
-👨‍💻 Developer : <a href='https://t.me/owner_of_sk'>SK. BRO</a>  
+👨‍💻 Developer : <a href='https://t.me/owner_of_sk'>SK.BRO</a>  
 📚 Library : <a href='https://docs.pyrogram.org/'>Pyrogram</a>  
 🦾 Language : Python 3  
 🗃 Database : <a href='https://www.mongodb.com/'>MongoDB</a>  
@@ -42,7 +42,7 @@ Please share and support us! 🙏🏻❤️</b>"""
 
 » ɪ ᴡɪʟʟ ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ꜰᴏʀ ʏᴏᴜ
 
-» ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ - 👨‍💻 <a href='https://t.me/owner_of_sk'>SK. BRO</a> </b>"""
+» ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ - 👨‍💻 <a href='https://t.me/owner_of_sk'>SK.BRO</a> </b>"""
     
     RESTART_TXT = """<b>🔄 Bot Restarted!</b>
 
