@@ -14,10 +14,10 @@ GRP_LNK = getenv('GRP_LNK', 'https://t.me/+-r5KwO5DXEoxODFl')
 CHNL_LNK = getenv('CHNL_LNK', 'https://t.me/+AEHdKFeiNt9jMjk1')
 
 # Bot Admins & Channels
-LOG_CHANNEL = int(getenv('LOG_CHANNEL', "-1003523852458"))
-POSTER_CHANNEL = int(getenv('POSTER_CHANNEL', "-1003323487847"))
+LOG_CHANNEL = int(getenv('LOG_CHANNEL', "-1003565449998"))
+POSTER_CHANNEL = int(getenv('POSTER_CHANNEL', "-1003305341477"))
 
 #Mongo DB Vars 
-DATABASE_URL = getenv('SECOND_FILES_DATABASE_URL', "mongodb+srv://vinod974323_db_user:bmDLcs8ExE7T2yxX@cluster0.wln6cms.mongodb.net/?appName=Cluster0")
+DATABASE_URL = getenv('SECOND_FILES_DATABASE_URL', "mongodb+srv://vinod974323_db_user:TAPKqy4f6wtMdjun@cluster0.2jhsbua.mongodb.net/?appName=Cluster0")
 DATABASE_NAME = getenv("DATABASE_NAME", "aman")
 COLLECTION_NAME = getenv("COLLECTION_NAME", 'Telegram_Files')
